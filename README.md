@@ -1,7 +1,9 @@
 # terraform-state-dr (disaster recovery)
 A production-ready solution that ensures Terraform state is resilient across regions - a disaster recovery (DR)–ready backend.
 
-Designing a Disaster-Recovery Ready Terraform Backend with Cross-Region Replication on AWS
+Designing a Disaster-Recovery Ready Terraform Backend with Cross-Region Replication on AWS 
+
+How I Built a Disaster-Recovery Ready Terraform State Backend with Cross-Region Replication on AWS
 
 ## Introduction  
 
